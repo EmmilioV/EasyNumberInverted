@@ -1,0 +1,11 @@
+C:\Users\19h1\source\repos\InvNum3cifras\InvNum3cifras\bin\Debug\netcoreapp3.1\InvNum3cifras.exe
+C:\Users\19h1\source\repos\InvNum3cifras\InvNum3cifras\bin\Debug\netcoreapp3.1\InvNum3cifras.deps.json
+C:\Users\19h1\source\repos\InvNum3cifras\InvNum3cifras\bin\Debug\netcoreapp3.1\InvNum3cifras.runtimeconfig.json
+C:\Users\19h1\source\repos\InvNum3cifras\InvNum3cifras\bin\Debug\netcoreapp3.1\InvNum3cifras.runtimeconfig.dev.json
+C:\Users\19h1\source\repos\InvNum3cifras\InvNum3cifras\bin\Debug\netcoreapp3.1\InvNum3cifras.dll
+C:\Users\19h1\source\repos\InvNum3cifras\InvNum3cifras\bin\Debug\netcoreapp3.1\InvNum3cifras.pdb
+C:\Users\19h1\source\repos\InvNum3cifras\InvNum3cifras\obj\Debug\netcoreapp3.1\InvNum3cifras.csprojAssemblyReference.cache
+C:\Users\19h1\source\repos\InvNum3cifras\InvNum3cifras\obj\Debug\netcoreapp3.1\InvNum3cifras.AssemblyInfoInputs.cache
+C:\Users\19h1\source\repos\InvNum3cifras\InvNum3cifras\obj\Debug\netcoreapp3.1\InvNum3cifras.AssemblyInfo.cs
+C:\Users\19h1\source\repos\InvNum3cifras\InvNum3cifras\obj\Debug\netcoreapp3.1\InvNum3cifras.dll
+C:\Users\19h1\source\repos\InvNum3cifras\InvNum3cifras\obj\Debug\netcoreapp3.1\InvNum3cifras.pdb
